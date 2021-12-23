@@ -31,12 +31,21 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<h2 align='center'><b>My GitHub Statistics</b></h2>
+<br/>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mayankwalia&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mayankwalia&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankwalia&hide=makefile&hide_title=true&layout=compact&langs_count=6&theme=highcontrast" />
+</p>
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankwalia&show_icons=true&theme=dark)
+<hr/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankwalia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayankwalia&repo=MATLAB-Codes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayankwalia&repo=portfoliomkw.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=mayankwalia&style=plastic&label=Views"/>
+<img src="https://badges.pufler.dev/visits/mayankwalia/mayankwalia?color=black&logo=github" />
+</p>
