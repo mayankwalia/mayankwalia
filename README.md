@@ -13,7 +13,7 @@
 <h2 align="center"><b>Who am I? :raising_hand_man: </b><h2>
 <p align="center">A lively learner, who is keen to to explore and experiment new stuffs.</p>
 
-### 🛠 &nbsp;Tech Stack
+<h2 align='center'>Tech Stack 🛠 &nbsp;<h2>
 
 - 🌐 &nbsp;
   ![C](https://img.shields.io/badge/-C%20Language-333333?style=flat&logo=c)
