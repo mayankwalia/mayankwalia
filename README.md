@@ -1,8 +1,8 @@
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
 
 <img align="right" alt="Coding" src="assests/gifs/coding.gif" width="350" height="250" /><br>
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m currently working on Backend Development.
+- 🌱 I’m currently learning Java Programming
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 💬 Ask me about Freelancing Projects
 - 📫 How to reach me: [Mail](mailto:mayankwalia3110@gmail.com)
