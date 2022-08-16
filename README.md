@@ -27,8 +27,10 @@
 <code><a href="https://www.postgresql.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/></a></code>&nbsp;
 <code><a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
 </code>
+<code><a href="#" target="_blank"><img src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg" alt="R language" width="40" height="40"/></a></code>&nbsp;</code>
+<code><a href="https://www.java.com/" target="_blank"><img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="java" width="40" height="40"/></a></code>&nbsp;</code>
+<code><a href="#" target="_blank"><img src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" alt="linux" width="40" height="40"/></a></code>&nbsp;</code>
 </p>
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mayankwalia&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
 </p>
