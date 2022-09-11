@@ -44,5 +44,5 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=mayankwalia&style=plastic&label=Views"/>
-<img src="https://badges.pufler.dev/visits/mayankwalia/mayankwalia?color=black&logo=github" />
+<!-- <img src="https://badges.pufler.dev/visits/mayankwalia/mayankwalia?color=black&logo=github" /> -->
 </p>
