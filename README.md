@@ -2,7 +2,7 @@
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
 
 <!-- Introduction -->
-<img align="right" alt="Coding" src="assests/gifs/coding.gif" width="350" height="250" /><br>
+<img align="right" alt="Coding" src="assests/gifs/Developer.gif" width="300" height="220" /><br>
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning Java Programming
 - 👯 I’m looking to collaborate on Full Stack Projects
