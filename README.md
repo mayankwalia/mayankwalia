@@ -1,5 +1,7 @@
+<!-- Greetings -->
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
 
+<!-- Introduction -->
 <img align="right" alt="Coding" src="assests/gifs/coding.gif" width="350" height="250" /><br>
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning Java Programming
@@ -13,6 +15,7 @@
 <h2 align="center"><b>Who am I? :raising_hand_man: </b><h2>
 <p align="center">A lively learner, who is keen to to explore and experiment new stuffs.</p>
 
+<!-- Technologies -->
 <h2 align='center'>Tech Stack 🛠 &nbsp;<h2>
 
 <p align="center"> 
@@ -31,6 +34,9 @@
 <code><a href="https://www.java.com/" target="_blank"><img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="java" width="40" height="40"/></a></code>&nbsp;</code>
 <code><a href="#" target="_blank"><img src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" alt="linux" width="40" height="40"/></a></code>&nbsp;</code>
 </p>
+
+
+<!-- Github Statistics  -->
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mayankwalia&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
 </p>
@@ -44,5 +50,4 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=mayankwalia&style=plastic&label=Views"/>
-<!-- <img src="https://badges.pufler.dev/visits/mayankwalia/mayankwalia?color=black&logo=github" /> -->
 </p>
