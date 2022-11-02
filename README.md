@@ -1,7 +1,6 @@
 <!-- Greetings -->
 [![@mayankwalia's Holopin board](https://holopin.me/mayankwalia)](https://holopin.io/@mayankwalia)
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
-
 <!-- Introduction -->
 <img align="right" alt="Coding" src="assests/gifs/Developer.gif" width="300" height="220" /><br>
 - 🔭 I’m currently working on React.
