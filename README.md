@@ -2,15 +2,14 @@
 [![@mayankwalia's Holopin board](https://holopin.me/mayankwalia)](https://holopin.io/@mayankwalia)
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
 <!-- Introduction -->
-<img align="right" alt="Coding" src="assests/gifs/Developer.gif" width="300" height="220" /><br>
-- 🔭 I’m currently working on React.
-- 🌱 I’m currently learning Java Programming
-- 👯 I’m looking to collaborate on Full Stack Projects
-- 💬 Ask me about Freelancing Projects
-- 📫 How to reach me: [Mail](mailto:mayankwalia3110@gmail.com)
-- :chess_pawn: Loves to play Chess
-- ⚡ Fun fact: I can solve a Rubik's Cube. :tada:
-<br>
+<img align="right" alt="Coding" src="assests/gifs/Developer.gif" width="300" height="220" />
+- 🔭 I’m currently working on React.<br/>
+- 🌱 I’m currently learning Java Programming<br/>
+- 👯 I’m looking to collaborate on Full Stack Projects<br/>
+- 💬 Ask me about Freelancing Projects<br/>
+- 📫 How to reach me: <a hrf="mailto:mayankwalia3110@gmail.com">Mail</a><br/>
+- :chess_pawn: Loves to play Chess<br/>
+- ⚡ Fun fact: I can solve a Rubik's Cube. :tada:<br/>
 
 <h2 align="center"><b>Who am I? :raising_hand_man: </b><h2>
 <p align="center">A lively learner, who is keen to to explore and experiment new stuffs.</p>
