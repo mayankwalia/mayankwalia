@@ -1,0 +1,225 @@
+%------------------------
+% Resume Template
+% Author : Mayank Walia
+% Github : https://github.com/mayankwalia
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Mayank Walia}} & Email: \href{mailto:mayankwalia625@gmail.com}{mayankwalia625@gmail.com}\\
+  \href{https://mayank-walia.me}{Portfolio: mayank-walia.me} & Mobile:~~~+91-90279xxxxx \\
+  \href{https://github.com/mayankwalia}{Github: ~~github.com/mayankwalia} \\
+\end{tabular*}
+
+%-----------EDUCATION-----------------
+\section{~~Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Indian Institute of Technology Madras, IIT Madras}{Chennai}
+      {BS in Data Science and Application;  GPA: 10.0}{January 2021 - Present}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Python, Data Structures and Algorithms, Database Management System, Programming in Java, System Commands, Machine Learning, Modern Application Development}}}
+    \resumeSubHeadingListEnd
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Dehradun Institute of Technology, DIT University}{Dehradun}
+      {BSc Mathematics Honours;  GPA: 9.64}{August 2020 - Present}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Mathematical Modelling, Probability and Statistics, Numerical Techniques using MATLAB, Programming in C, Graph Theory, Calculus, Differential Equations (ODE and PDE), Operations Research, Real and Complex Analysis, Integral Transforms  }}}
+    \resumeSubHeadingListEnd
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Raja Rammohan Roy Academy}{Dehradun}
+      {ISC Class 12 Examination (PCM with Computer Science);  Percentage: 98.25}{May 2018 - Apr 2020}
+    \resumeSubHeadingListEnd
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Raja Rammohan Roy Academy}{Dehradun}
+      {ICSE Class 10 Examination (Science with Computer Applications);  Percentage: 94.80}{May 2016 - Apr 2018}
+    \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+%-----------SKILLS-----------------
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~Python, Java, Javascript, HTML5, CSS3, SQL, Bash, C, C++, R, MATLAB}
+	\resumeSubItem{Frameworks}{~~~~Flask, NodeJS, ReactJS, VueJS, Pandas, Numpy, Matplotlib, Scikit Learn}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~GIT, PostgreSQL, MySQL, SQLite, Excel, Tableau, Google Sheets}
+	\resumeSubItem{Others}{~~~~~~~~~~~ RESTful APIs, API Documentation (Swagger), GitHub, LaTeX, Flutter, MS Office, Google Suite}
+	\resumeSubItem{Soft Skills}{~~~~~~~Problem Solving, Writing, Decision Making, Time Management}
+
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Computer Society of India - DIT-U Chapter}{}
+    {Technical Head}{April 2022 - Present}
+    % \resumeItemListStart
+    %     \resumeItem{Discussion Forum Upgrades}
+    %       {Refactor forum for performance to handle large databases.}
+    %       \resumeItem{REST API for Discussion Forum}
+    %       {Symphony \& Twig based Forum parts converted to API-first interface.}
+    %       \resumeItem{Ratchet PHP WebSocket}{Implemented a WebSocket for low-latency real time exchange of posts and thread updates.}
+    %   \resumeItemListEnd
+\vspace{-5pt}
+    \resumeSubheading
+		{Team WebOps IIT Madras Student Affairs}{Remote}
+		{Core Member}{January 2022 -  Present}
+% 		\resumeItemListStart
+%         \resumeItem{Project Course - Find Movie Similarity from Plot Summaries}
+%           {Created project based course using Unsupervised learning and natural language processing.}
+%         \resumeItem{Tutorial - Introduction to Reinforcement Learning}
+%           {Created tutorial for Q-learning RL algorithm and  concepts.}
+%         \resumeItem{Impact}{Course has been taken by 250+ students so far with 4.65 average rating.}
+% 		\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+%-----------PROJECTS-----------------
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{E-Commerce Website}{\href{https://challenge-30e97.web.app/}{(Website)}}{Made clone of Amazon using Firebase, ReactJS, HTML5, CSS3, JavaScript}
+\vspace{1pt}
+\resumeSubItem{Kanban Application}{A Web Application for visual process management that helps teams to work more efficiently, visualize workflow, analyze and improve business processes in line (May '22)}
+\vspace{1pt}
+\resumeSubItem{Blog Lite}{(Work in progress) Blogging application where users can create blogs, like, comment and share other blogs. Users can follow and unfollow other users. Tech: Flask, Python, HTML5, CSS3, Javascript, Bootstrap, SQL (September '22)}
+% \vspace{2pt}
+\resumeSubItem{Automatic University Timetable Generator}{\href{https://github.com/mayankwalia/TimeTableGenerator}{(Link: Github)} Generates timetable for each Faculty, Programs and Classrooms along with statistics on Student load and Faculty load. Approaches like Greedy, Dynamic Programming and Genetic Algorithms involving applications of Operations Research, Graph Theory and Optimization. Tech: Python, SQL, Tkinter (May '22)}
+% \vspace{2pt}
+% \resumeSubItem{Upasthiti, QR based Attendance Monitoring System}{\href{https://github.com/mayankwalia/Upasthiti}{(Link: Github)} Teachers can record attendance by scanning the QR Codes of Students. Students can also easily check in and check out by scanning the QRs available at different spots (i.e. Library, Cafes, Reception, Labs, etc). Tech: Python, SQL, Javascript}
+\vspace{2pt}
+% \resumeSubItem{Drag-n-drop machine learning learning environment (Web Development, Machine Learning)}{Scratch like tool for implementing machine learning pipelines along with built in tutorial for each concept. Tech: Python, JavaScript (September '18)}
+% \vspace{2pt}
+% \resumeSubItem{Search Engine and Social Network(Web Development, Web Crawler, Search)}{Created from scratch a social network and a search engine based on the idea of integrating Facebook and Google. The launched website was among top 1000 websites in India during 2012-2013. Tech: PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)}
+\resumeSubHeadingListEnd
+% \vspace{-5pt}
+% \section{Publications}
+% \resumeSubHeadingListStart
+% \resumeSubItem{Book: Deep Learning on Web (Web Development, Deep Learning)}{Work in Progress book to be published by Packt Publishing in late 2019. Tech: Django, Python, AWS, GCP, Azure (November '18)}
+% \vspace{2pt}
+% \resumeSubItem{Book: Deep Learning on Mobile Devices (Flutter App Development, Deep Learning)}{Work in Progress book to be published by Packt Publishing in late 2019. Tech: Flutter, Android, Firebase, TensorFlow, Python, Dart (December '18)}
+% \resumeSubHeadingListEnd
+% \vspace{-5pt}
+%-----------Awards-----------------
+% \vspace{-4pt}
+%-----------CERTIFICATIONS---------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeSubItem{Google Data Analytics Course}{\textit{Google}  \href{https://www.coursera.org/account/accomplishments/certificate/2G2SSRQMJSX2}{Link}}
+\vspace{1pt}
+\resumeSubItem{AI for Everyone}{\textit{ DeepLearning.Ai} \href{https://www.coursera.org/account/accomplishments/certificate/J3CVR2GE3Q6H?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course}{Link}}
+\vspace{1pt}
+\resumeSubItem{Data Science Math Skills}{\textit{Duke University}  \href{https://www.coursera.org/account/accomplishments/verify/P6ZVYZ9WAFU7?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android}{Link}}
+\vspace{1pt}
+
+%-----------Awards-----------------
+
+\section{Honors and Awards}
+\begin{description}[font=$\bullet$]
+\item {Awarded INSPIRE Scholarship from Department of Science and Technology (DST), Government of India}
+\vspace{-3pt}
+\item {School Topper from 6th to 12th Standard}
+\vspace{-3pt}
+\item {First Prize in Esoteric Language Competiton - Paradox Saavan Event - July, 2022 }
+\vspace{-3pt}
+\item {First Rank in DSA Codechef Contests - Competitive Programming - January, 2022 }{\href{https://drive.google.com/file/d/19bRgm7a4WDTI9MV1g5gKpzr628xoNyjU/view?usp=share_link}{View Certificate}}
+\vspace{-3pt}
+\item {Second Runner's Up at DIT CodeGems - Competitive Programming Contest - September, 2021 }
+\vspace{-3pt}
+% \item {Runner's Up at Facebook Developers Circle Hackathon - August, 2017}
+
+\end{description}
+% \vspace{2pt}
+
+%-----------Awards-----------------
+
+\vspace{-5pt}
+\section{Volunteer Experience}
+  \resumeHeadingListStart
+	\resumeSubheading{Group Leader at Corbett House Council (IIT Madras)}{Chennai, India}
+    {Assisting 30-35 students to get their queries answered.}{May 2022 - Present}
+	\resumeSubheading{Student Mentor}{IIT Madras}
+    {Taught Python, Mathematics and Statistics to Students}{August 2022 - September 2022}
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+\vspace{-5pt}
+\vspace{2pt}
+\section{Profiles}
+{\href{https://auth.geeksforgeeks.org/user/mayankwalia/practice}{\textbf{Geeks for Geeks}}}~~~~~~~~~~~~~~~~~~~~~~~~{\href{https://www.codechef.com/users/mayankwalia}{\textbf{Codechef}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{\href{https://leetcode.com/MayankW/}{\textbf{Leetcode}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{\href{https://www.linkedin.com/in/walia-mayank/}{\textbf{LinkedIn}}}
+\end{document}
