@@ -3,7 +3,7 @@
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
 <!-- Introduction -->
 <img align="right" alt="Coding" src="assests/gifs/Developer.gif" width="300" height="220" />
-- 🔭 I’m currently working on React.<br/>
+- 🔭 I’m currently working on Laravel.<br/>
 - 🌱 I’m currently learning Java Programming<br/>
 - 👯 I’m looking to collaborate on Full Stack Projects<br/>
 - 💬 Ask me about Freelancing Projects<br/>
