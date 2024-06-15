@@ -1,5 +1,12 @@
 <!-- Greetings -->
+<div>
+    <a><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&pause=1000&color=47A1F7&random=false&width=435&lines=Mayank+Walia;Aspiring+Data+Scientist;Working+as+Full+Stack+Developer" alt="Intro"/></a>
+</div>
+<hr/>
+
 [![@mayankwalia's Holopin board](https://holopin.me/mayankwalia)](https://holopin.io/@mayankwalia)
+
+
 <h1 align="center">:earth_americas: Hi folks! 👋</h1>
 <!-- Introduction -->
 <img align="right" alt="Coding" src="assests/gifs/Developer.gif" width="300" height="220" />
